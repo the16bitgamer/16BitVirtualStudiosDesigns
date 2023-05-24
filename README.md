@@ -1,5 +1,5 @@
 # 16 Bit Virtual Studios Designs
-These are the many 3D Models and Designs which I've made in FreeCad for 16 Bit Virtual Studios. This Repo doesn't include the GCode of my designs as the Publically avaliable versions are avaliable on other 3D Printing Repo's.
+These are the many 3D Models and Designs which I've made in FreeCad for 16 Bit Virtual Studios. This Repo doesn't include the STL of my designs as the Publically avaliable versions are avaliable on other 3D Printing Repo's.
 
 Like Pintables: https://www.printables.com/social/235770-16-bit-virtual-studios/models
 
