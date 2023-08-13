@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="10mm"
+   height="4.8299999mm"
+   viewBox="0 0 9.9999999 4.8300001"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="GBM Icon.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="11.310575"
+     inkscape:cx="53.489765"
+     inkscape:cy="25.993373"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Box"
+     style="display:inline">
+    <path
+       id="Body_f0000"
+       d="M 0.0357782,0.21466908 V 4.6153846 A 0.17889088,0.17889088 0 0 0 0.21466908,4.7942755 H 9.7853309 A 0.17889088,0.17889088 0 0 0 9.964222,4.6153846 V 0.21466908 A 0.17889088,0.17889088 0 0 0 9.7853309,0.0357782 H 0.21466908 A 0.17889088,0.17889088 0 0 0 0.0357782,0.21466908 Z"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:#dd5b5b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0715564;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Groove">
+    <path
+       id="Body_f0010"
+       d="M 9.2668635,4.7942755 Q 7.1679076,4.4388068 5,4.4364937 q -2.1679076,0.00231 -4.26686346,0.3577818 4.26686346,0 8.53372696,0 z"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:#5bdddb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0715564;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Body_f0011"
+       d="M 0.73313652,0.0357782 Q 2.8320789,0.39124511 4.9999982,0.39355996 a 34.61818,34.61818 0 0 1 1.8e-6,0 q 2.1679202,-0.002326 4.2668633,-0.35778176 -4.2668633,0 -8.53372678,0 z"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:#5bdddb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0715564;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Body_f0016"
+       d="m 2.9647585,3.7876565 h 4.070483 V 1.0423971 h -4.070483 z"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="fill:#5bdddb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0715564;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
