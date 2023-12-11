@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="36.69959999999999mm"
+   height="20.299599999999998mm"
+   viewBox="0 0 36.69959999999999 20.299599999999998"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="DSi Icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.6825272"
+     inkscape:cx="44.527238"
+     inkscape:cy="49.011995"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <g
+     id="g3"
+     transform="matrix(0.27525461,0,0,0.27525461,0.13393295,0.13393295)">
+    <path
+       id="Body_f0000"
+       d="m 0.3598,1.2198 v 17.86 a 0.86,0.86 0 0 0 0.86,0.86 h 34.26 a 0.86,0.86 0 0 0 0.86,-0.86 v -17.86 a 0.86,0.86 0 0 0 -0.86,-0.86 h -34.26 a 0.86,0.86 0 0 0 -0.86,0.86 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#8c1f54;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="30.8498"
+       cy="-14.8498"
+       r="1.72"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#8c1f54;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle2"
+       transform="scale(1,-1)" />
+  </g>
+</svg>

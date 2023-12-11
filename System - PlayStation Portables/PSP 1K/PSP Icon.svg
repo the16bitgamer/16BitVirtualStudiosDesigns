@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="91.93565999999997mm"
+   height="41.002660000000006mm"
+   viewBox="0 0 91.93565999999997 41.002660000000006"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="PSP Icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.869208"
+     inkscape:cx="113.68451"
+     inkscape:cy="89.610145"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Outter"
+     style="display:inline">
+    <path
+       id="Pocket001_f0001"
+       d="M 11.964405,5.5256364 H 11.139601 A 0.35382862,0.35382862 0 0 0 10.813093,5.743117 l -0.06763,0.1619661 a 0.07336603,0.07336603 0 0 1 -0.06771,0.045095 H 1.8828669 a 3.5524552,3.5524552 0 0 1 0,-5.2006306 h 9.6937361 a 3.5524552,3.5524552 0 0 1 0.387806,4.7760893 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#1c917f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0464342;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Inner"
+     style="display:inline">
+    <path
+       id="Pocket001_f0031"
+       d="M 10.123621,1.2802237 V 4.9763861 H 3.3358497 V 1.2802237 Z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#1c917f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0464342;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="2.1318772"
+       cy="-4.7332034"
+       r="0.39621639"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#1c917f;stroke-width:0.0464342;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle3"
+       transform="scale(1,-1)" />
+    <path
+       id="Pocket001_f0029"
+       d="M 2.7817091,5.9501777 H 1.8828669 A 3.5524552,3.5524552 0 0 1 1.4950657,5.5256364 H 2.3198694 A 0.35382862,0.35382862 0 0 1 2.6463725,5.743117 l 0.067637,0.1619661 a 0.07336603,0.07336603 0 0 0 0.0677,0.045095 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#1c917f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0464342;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Pocket001_f0003"
+       d="m 10.677761,0.7495471 h 0.898842 a 3.5524552,3.5524552 0 0 1 0.387806,0.4245412 H 11.139601 A 0.35382862,0.35382862 0 0 1 10.813093,0.95660384 l -0.06763,-0.16196222 a 0.07336603,0.07336603 0 0 0 -0.06771,-0.0450945 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#1c917f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0464342;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Pocket001_f0014"
+       d="m 2.7817091,0.7495471 a 0.07336603,0.07336603 0 0 0 -0.0677,0.0450942 L 2.646372,0.95660742 A 0.35382862,0.35382862 0 0 1 2.3198697,1.1740883 H 1.4950653 A 3.5524552,3.5524552 0 0 1 1.8828669,0.7495471 Z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#1c917f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0464342;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
