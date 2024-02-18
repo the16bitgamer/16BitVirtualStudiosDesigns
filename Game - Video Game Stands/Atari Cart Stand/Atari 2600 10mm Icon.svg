@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="90.67799999999927mm"
+   height="98.77799999999999mm"
+   viewBox="0 0 90.67799999999927 98.77799999999999"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="Atari 2600 10mm Icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.56182909"
+     inkscape:cx="120.1433"
+     inkscape:cy="218.03784"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Outline"
+     style="display:inline">
+    <path
+       id="Pad001_f0003"
+       d="M 0.73197638,9.848566 V 1.579434 A 0.84745763,0.84745763 0 0 1 1.579434,0.73197638 H 9.0165167 A 0.84745763,0.84745763 0 0 1 9.8639743,1.579434 V 9.848566 A 0.84745763,0.84745763 0 0 1 9.0165167,10.696024 H 1.579434 A 0.84745763,0.84745763 0 0 1 0.73197638,9.848566 Z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0359527;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Details"
+     style="display:inline">
+    <circle
+       cx="5.2979755"
+       cy="-6.1300244"
+       r="3.3436055"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;stroke-width:0.0359527;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle4"
+       transform="scale(1,-1)" />
+    <circle
+       cx="5.2979755"
+       cy="-6.1300244"
+       r="2.6502311"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;stroke-width:0.0359527;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle7"
+       transform="scale(1,-1)" />
+    <circle
+       cx="5.2979755"
+       cy="-6.1300244"
+       r="1.1813046"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;stroke-width:0.0359527;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9"
+       transform="scale(1,-1)" />
+    <circle
+       cx="2.403779"
+       cy="-2.4705489"
+       r="0.81407297"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;stroke-width:0.0359527;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle5"
+       transform="scale(1,-1)" />
+  </g>
+</svg>

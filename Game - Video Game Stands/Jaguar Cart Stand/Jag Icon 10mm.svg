@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="167.98011357450665mm"
+   height="128.29372771714716mm"
+   viewBox="0 0 167.98011357450665 128.29372771714716"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="Jag Icon 10mm.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.4470002"
+     inkscape:cx="131.38536"
+     inkscape:cy="30.854105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Outline"
+     style="display:inline">
+    <path
+       id="Body_f0039"
+       d="m 4.1982956,1.4824436 h 4.2334373 a 2.3879126,2.3879126 0 0 1 2.1564521,1.3622596 7.3886783,7.3886783 0 0 1 0.06913,6.1974496 H 1.9727172 A 7.3886783,7.3886783 0 0 1 2.041868,2.8447032 2.3879126,2.3879126 0 0 1 4.1982956,1.4824436 Z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0211672;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Details"
+     style="display:inline">
+    <path
+       id="Body_f0038"
+       d="m 8.4317329,5.8973138 v 3.144839 H 4.1982956 v -3.144839 a 0.36286604,0.36286604 0 0 1 0.362866,-0.3628661 h 3.5077053 a 0.36286604,0.36286604 0 0 1 0.362866,0.3628661 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0211672;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Body_f0040"
+       d="M 7.4411334,3.7030755 6.9491938,4.1046229 a 0.24191069,0.24191069 0 0 0 0.089055,0.4207186 l 0.6416139,0.1757702 a 0.24191069,0.24191069 0 0 0 0.2349739,-0.06226 l 0.21382,-0.2138188 a 0.24191069,0.24191069 0 0 0 2.3e-5,-0.3421162 L 7.7651607,3.7194244 a 0.24191069,0.24191069 0 0 0 -0.3240279,-0.01635 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0211672;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="3.7516296"
+       cy="-3.2179654"
+       r="0.78620976"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;stroke-width:0.0211672;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle3"
+       transform="scale(1,-1)" />
+    <path
+       id="Body_f0042"
+       d="m 8.4002089,3.8113673 a 0.24191069,0.24191069 0 0 0 0.3421374,-1.1e-6 l 0.20952,-0.2095433 A 0.24191069,0.24191069 0 0 0 8.9518409,3.259707 L 8.5969241,2.9047666 a 0.24191069,0.24191069 0 0 0 -0.3420884,-9.1e-6 L 8.0452661,3.1143113 a 0.24191069,0.24191069 0 0 0 1.45e-5,0.3421115 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0211672;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Body_f0043"
+       d="m 9.2084513,3.0031245 a 0.24191069,0.24191069 0 0 0 0.2997842,0.033777 L 9.747568,2.8864999 A 0.24191069,0.24191069 0 0 0 9.7899405,2.5106245 L 9.4507067,2.1713998 A 0.24191069,0.24191069 0 0 0 9.1509334,2.1375982 L 8.91159,2.288025 A 0.24191069,0.24191069 0 0 0 8.869228,2.6639354 Z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0211672;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>

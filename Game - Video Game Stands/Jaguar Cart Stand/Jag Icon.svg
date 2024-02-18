@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="167.98011357450665mm"
+   height="128.29372771714716mm"
+   viewBox="0 0 167.98011357450665 128.29372771714716"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="Jag Icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.61175005"
+     inkscape:cx="58.030236"
+     inkscape:cy="161.01347"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Outline"
+     style="display:inline">
+    <path
+       id="Body_f0039"
+       d="m 48.990057,1.64686 h 70.000003 a 39.4842,39.4842 0 0 1 35.657,22.525 122.172,122.172 0 0 1 1.143,102.475 H 12.190057 a 122.172,122.172 0 0 1 1.14341,-102.475 39.4842,39.4842 0 0 1 35.65659,-22.525 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Details"
+     style="display:inline">
+    <path
+       id="Body_f0038"
+       d="m 118.99006,74.64686 v 52 H 48.990057 v -52 a 6,6 0 0 1 6,-6 h 58.000003 a 6,6 0 0 1 6,6 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Body_f0040"
+       d="m 102.61047,38.36507 -8.134235,6.639597 a 4,4 0 0 0 1.472522,6.956593 l 10.609103,2.906365 a 4,4 0 0 0 3.8853,-1.029465 l 3.53552,-3.535499 a 4,4 0 0 0 3.8e-4,-5.656901 l -6.01079,-6.010361 a 4,4 0 0 0 -5.35781,-0.270339 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="41.604424"
+       cy="-30.34376"
+       r="13"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle3"
+       transform="scale(1,-1)" />
+    <path
+       id="Body_f0042"
+       d="m 118.46881,40.155678 a 4,4 0 0 0 5.65725,-1.8e-5 l 3.46442,-3.464805 a 4,4 0 0 0 -4.2e-4,-5.656895 l -5.86856,-5.86895 a 4,4 0 0 0 -5.65644,-1.5e-4 l -3.46524,3.464978 a 4,4 0 0 0 2.4e-4,5.656822 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Body_f0043"
+       d="m 131.83312,26.79136 a 4,4 0 0 0 4.95694,0.5585 l 3.95737,-2.48689 a 4,4 0 0 0 0.70063,-6.21511 l -5.60924,-5.60909 a 4,4 0 0 0 -4.95676,-0.55891 l -3.95755,2.48731 a 4,4 0 0 0 -0.70045,6.21569 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
