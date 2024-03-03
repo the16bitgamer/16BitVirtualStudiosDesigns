@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="37.214001mm"
+   height="26.450001mm"
+   viewBox="0 0 37.214001 26.449999"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="GameCube Icon Center.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2498226"
+     inkscape:cx="239.63402"
+     inkscape:cy="246.03493"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Shilouette"
+     style="display:inline">
+    <path
+       id="Pad001_f0003"
+       d="m 29.763744,16.315633 a 5.2663535,5.2663535 0 0 0 -0.990945,1.904924 4.5148524,4.5148524 0 1 1 -7.469235,-4.483497 5.6370411,5.6370411 0 0 0 1.247405,-1.77163 17.028562,17.028562 0 0 0 -7.887735,0 5.6370411,5.6370411 0 0 0 1.247404,1.77163 A 4.5148524,4.5148524 0 1 1 8.4414029,18.220557 5.2663535,5.2663535 0 0 0 7.450458,16.315628 32.621766,32.621766 0 0 1 5.0571687,25.101296 2.1530365,2.1530365 0 0 1 0.98832108,24.764848 32.621766,32.621766 0 0 1 1.6702204,6.8131686 a 6.4264879,6.4264879 0 0 1 3.4494255,-3.848742 32.621766,32.621766 0 0 1 26.9749101,0 6.4264879,6.4264879 0 0 1 3.449426,3.848742 32.621766,32.621766 0 0 1 0.681899,17.9516794 2.1530365,2.1530365 0 0 1 -4.068848,0.336448 32.621766,32.621766 0 0 1 -2.393289,-8.785668 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#abc94d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0913409;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Outline"
+     style="display:inline">
+    <path
+       id="Pad001_f0004"
+       d="m 29.763744,16.315633 a 32.621766,32.621766 0 0 0 2.393289,8.785663 2.1530365,2.1530365 0 0 0 4.068848,-0.336448 32.621766,32.621766 0 0 0 -0.681899,-17.9516794 6.4264879,6.4264879 0 0 0 -3.449423,-3.848742 32.621766,32.621766 0 0 0 -26.9749131,0 6.4264879,6.4264879 0 0 0 -3.4494255,3.848742 32.621766,32.621766 0 0 0 -0.68189932,17.9516794 2.1530365,2.1530365 0 0 0 4.06884762,0.336448 32.621766,32.621766 0 0 0 2.3932893,-8.785668 5.2663535,5.2663535 0 0 1 0.9909449,1.904929 4.5148524,4.5148524 0 1 0 7.4692351,-4.483497 5.6370411,5.6370411 0 0 1 -1.247404,-1.77163 17.028562,17.028562 0 0 1 7.887735,0 5.6370411,5.6370411 0 0 1 -1.247405,1.77163 4.5148524,4.5148524 0 1 0 7.469238,4.483497 5.2663535,5.2663535 0 0 1 0.990945,-1.904929 z m 5.448409,8.200088 a 1.10914,1.10914 0 0 1 -2.096066,0.173314 31.577869,31.577869 0 0 1 -2.471947,-10.025128 0.26097413,0.26097413 0 0 0 -0.409361,-0.193911 6.31025,6.31025 0 0 0 -2.466832,3.467743 3.4709559,3.4709559 0 1 1 -5.742241,-3.446865 6.6809376,6.6809376 0 0 0 1.803096,-2.992134 0.26097413,0.26097413 0 0 0 -0.178141,-0.32218 18.072458,18.072458 0 0 0 -10.087119,0 0.26097413,0.26097413 0 0 0 -0.178141,0.32218 6.6809376,6.6809376 0 0 0 1.803096,2.992134 A 3.4709559,3.4709559 0 1 1 9.4462575,17.937739 6.31025,6.31025 0 0 0 6.9794258,14.469996 0.26097413,0.26097413 0 0 0 6.5700618,14.663907 31.577869,31.577869 0 0 1 4.0981149,24.689035 1.10914,1.10914 0 0 1 2.002049,24.515722 31.577869,31.577869 0 0 1 2.6621309,7.1384989 a 5.3825914,5.3825914 0 0 1 2.889114,-3.2235785 31.577869,31.577869 0 0 1 26.1117121,0 5.3825914,5.3825914 0 0 1 2.889114,3.2235785 31.577869,31.577869 0 0 1 0.660082,17.3772221 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#abc94d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0913409;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Details"
+     style="display:inline">
+    <path
+       id="Pad001_f0063"
+       d="m 12.0697,14.713781 h 1.435357 v 1.565844 h 1.565845 v 1.435358 h -1.565845 v 1.565845 H 12.0697 V 17.714983 H 10.503855 V 16.279625 H 12.0697 Z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#abc94d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0913409;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       cx="24.426825"
+       cy="-16.997303"
+       r="1.3048706"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#abc94d;stroke-width:0.0913409;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle6"
+       transform="scale(1,-1)" />
+    <circle
+       cx="7.7766762"
+       cy="-8.8159237"
+       r="2.6097412"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#abc94d;stroke-width:0.0913409;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle7"
+       transform="scale(1,-1)" />
+    <circle
+       cx="25.71966"
+       cy="-10.962436"
+       r="1.3048706"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#abc94d;stroke-width:0.0913409;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle8"
+       transform="scale(1,-1)" />
+    <circle
+       cx="29.437529"
+       cy="-8.8159237"
+       r="2.0747442"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#abc94d;stroke-width:0.0913409;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle9"
+       transform="scale(1,-1)" />
+    <path
+       id="Pad001_f0068"
+       d="m 32.519782,8.8681217 a 0.91341002,0.91341002 0 1 0 1.603091,0.875995 3.0555112,3.0555112 0 0 0 -1.091811,-4.0747194 0.91340944,0.91340944 0 1 0 -0.950309,1.5601816 1.2286845,1.2286845 0 0 1 0.439037,1.6385518 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#abc94d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0913409;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Pad001_f0069"
+       d="m 25.468154,6.159222 a 0.91340944,0.91340944 0 0 0 1.752971,0.5141166 1.2286845,1.2286845 0 0 1 1.469076,-0.8481659 0.91340944,0.91340944 0 0 0 0.431234,-1.7751721 3.0555112,3.0555112 0 0 0 -3.653272,2.109219 z"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#abc94d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0913409;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
