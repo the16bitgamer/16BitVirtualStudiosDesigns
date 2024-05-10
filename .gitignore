@@ -2,3 +2,5 @@
 *.stl
 *.FCStd1
 *.FCBak
+*.gcode
+*.bgcode
