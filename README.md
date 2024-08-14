@@ -8,3 +8,7 @@ and Thingiverse: https://www.thingiverse.com/16bitgames/designs
 The models are made in FreeCad
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+# 16 Bit Virtual Studios Fusion 360 Designs
+
+Added to this repository is our original Fusion 360 designs as *.f3d files. These files are copywrite 16 Bit Virtual Studios are are for non-commercial use, as they were designed with Fusion 360 Personal Edition. Many of the designs found here were remade in FreeCAD, which is the parametric design software we officially support. The Fusion 360 models have been archived here for reference or personal use only.
